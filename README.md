@@ -12,4 +12,4 @@ A clone of Spotify’s web music player built using HTML, CSS, and JavaScript. I
 ## Tech Stack
 - HTML
 - CSS
-- JavaScript (Vanilla)
+
